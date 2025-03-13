@@ -5,13 +5,13 @@
 -->
 
 ### About Me:
-- 🎓 I am a student of **Computer Science and Mathematics** at **California State University, Northridge**.
-- 🚀 I have done research at:
+-  I am a student of **Computer Science and Mathematics** at **California State University, Northridge**.
+-  I have done research at:
   - **NASA-Sponsored Autonomy Research Center (ARCS)(2024-2025)**  
   - **Abrol Lab of Computational Biochemistry & Biophysics(2024-Present)**  
   - **Testing and Validation Lab (TAV-Lab)(2024-Present)**  
-- 🤖 I am passionate about **Deep Learning**, **Learning Algorithms**, and their applications.  
-- 💻 My projects span:
+-  I am passionate about **Deep Learning**, **Learning Algorithms**, and their applications.  
+- 💻My projects span:
   - **Computer Vision**
   - **Scientific Computing**
   - **Parsers & Compilers**
@@ -38,4 +38,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paramdesai321&layout=compact&theme=radical)
 ---
 
-⭐️ *Feel free to reach out or explore my repositories!* 😊
+
