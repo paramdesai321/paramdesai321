@@ -6,10 +6,10 @@
 
 ### About Me:
 - 🎓 I am a student of **Computer Science and Mathematics** at **California State University, Northridge**.
-- 🚀 I do research at:
-  - **NASA-Sponsored Autonomy Research Center (ARCS)**  
-  - **Abrol Lab of Computational Biochemistry & Biophysics**  
-  - **Testing and Validation Lab (TAV-Lab)**  
+- 🚀 I have done research at:
+  - **NASA-Sponsored Autonomy Research Center (ARCS)(2024-2025)**  
+  - **Abrol Lab of Computational Biochemistry & Biophysics(2024-Present)**  
+  - **Testing and Validation Lab (TAV-Lab)(2024-Present)**  
 - 🤖 I am passionate about **Deep Learning**, **Learning Algorithms**, and their applications.  
 - 💻 My projects span:
   - **Computer Vision**
